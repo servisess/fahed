@@ -7,6 +7,7 @@
 }
 body {
   margin: 0;
+  background-color: #ded3b6;
   /* background-image: linear-gradient(to right, #03a9f4 , #ffff9c); */
   /* position: relative; 
     height: 100vh;
@@ -79,7 +80,7 @@ a {
 
 .contact-elm {
   border-radius: 10px;
-  border: 2px solid green;
+  border: 2px solid #b1b1b1;
   padding: 0.5rem 1rem;
   font-weight: bold;
   min-width: 200px;
@@ -108,7 +109,7 @@ a {
 }
 
 .span-center {
-  /* margin: auto; */
+  margin: auto;
   text-align: right;
 }
 
